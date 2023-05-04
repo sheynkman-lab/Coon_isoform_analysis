@@ -1,0 +1,22 @@
+# ignore data directories 
+data
+output
+Data
+
+
+# ignore data files
+*.fasta
+*.fa
+*.tsv
+*.txt
+*.clstr
+*.xlsx
+
+#Temp files and such
+.ipynb_checkpoints
+*.pyc
+*.swp
+*.bak
+*pybak*
+*~
+
